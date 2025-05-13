@@ -1,3 +1,6 @@
+# This is fork of bazthedev SolsScope
+# All credits of original files goes to @bazthedev
+https://github.com/bazthedev/SolsScope
 # SolsRNGBot
 ## A macro for Sols's RNG, boasting Auto craft, Auto purchase, aura/biome detection and much more. Aiming to be dolphSol for Eon 1+
 # Features:
