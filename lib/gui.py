@@ -444,7 +444,7 @@ class MainWindow(QMainWindow):
         layout = QVBoxLayout(credits_tab)
         layout.setAlignment(Qt.AlignmentFlag.AlignTop | Qt.AlignmentFlag.AlignHCenter) 
 
-        title_label = QLabel("Created by Baz and Cresqnt")
+        title_label = QLabel("Created originally by Baz and Cresqnt, modified by Raudrobot")
         font = title_label.font()
         font.setPointSize(12)
         font.setBold(True)
